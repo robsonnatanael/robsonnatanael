@@ -4,9 +4,21 @@
   "description": "This is a special repository used to add a README.md to my GitHub profile.",
   "repository": "https://github.com/robsonnatanael/robsonnatanael",
   "author": {
-   "name": "Robson Natanael",
-   "email": "dev@robsonnatanael.com.br",
-   "url": "https://www.robsonnatanael.com.br"
+    "name": "Robson Natanael",
+    "email": "dev@robsonnatanael.com.br",
+    "url": "https://www.robsonnatanael.com.br"
   },
-  "private": true
+  "private": true,
+  "scripts": {
+    "postinstall": "husky install",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^7.0.4",
+    "semantic-release": "^19.0.2"
+  }
 }
