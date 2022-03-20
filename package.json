@@ -1,0 +1,12 @@
+{
+  "name": "robsonnatanael",
+  "version": "1.0.0",
+  "description": "This is a special repository used to add a README.md to my GitHub profile.",
+  "repository": "https://github.com/robsonnatanael/robsonnatanael",
+  "author": {
+   "name": "Robson Natanael",
+   "email": "dev@robsonnatanael.com.br",
+   "url": "https://www.robsonnatanael.com.br"
+  },
+  "private": true
+}
