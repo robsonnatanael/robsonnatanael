@@ -32,7 +32,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br />
 
-| [![Robson Natanael github stats](https://github-readme-stats.vercel.app/api?username=robsonnatanael&theme=dark&show_icons=true&count_private=true&hide_border=true)](https://github.com/robsonnatanael) | [![Robson Natanael top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonnatanael&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true)](https://github.com/robsonnatanael) |
+| [![Robson Natanael github stats](https://github-readme-stats.vercel.app/api?username=robsonnatanael&theme=dark&show_icons=true&count_private=true&hide_border=true)](https://github.com/robsonnatanael) | [![Robson Natanael top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonnatanael&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/robsonnatanael) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br />
